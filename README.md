@@ -21,3 +21,6 @@ Usage
 After installation, you can use K8sFlowGen from the command line:
 bash
 k8sflowgen -f your_kubernetes_file.yaml -o output_flowchart
+
+## Sample
+
